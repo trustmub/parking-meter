@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-08-28T23:12:12" hostname="Trusts-MacBook-Pro-2.local" time="0.039">
+  <properties/>
+  <testcase name="calculateParkingChange should return denomination for 200 note for a charge of 20" classname="MainKtTest" time="0.037"/>
+  <testcase name="calculateParkingChange should return denomination for 50 note for a charge if 10" classname="MainKtTest" time="0.001"/>
+  <testcase name="calculateParkingChange should return change with zero if the note entered is the same as the charge" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculateParkingChange should return denomination for 100 note for a charge of 12,50" classname="MainKtTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
